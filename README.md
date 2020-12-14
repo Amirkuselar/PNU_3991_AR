@@ -6,7 +6,7 @@
 - [حساب گیت هاب](https://github.com/amirkuselar)
 - [آدرس رزومه](https://amirkuselar.github.io/https-amirkuselar.github.io/)
 - [SOP](https://amirkuselar.github.io/sop/)
-- [CERTIFICATE]()
+- [https://www.sololearn.com/Certificate/1024-20618835/pdf]()
 -------------------
 
 
