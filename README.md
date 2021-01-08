@@ -1,39 +1,47 @@
 # PNU_3991_AR
-----------
 ### امیرمحمد کوسه لر
-
----
-- [حساب گیت هاب](https://github.com/amirkuselar)
-- [آدرس رزومه](https://amirkuselar.github.io/https-amirkuselar.github.io/)
-- [SOP](https://amirkuselar.github.io/sop/)
-- [https://www.sololearn.com/Certificate/1024-20618835/pdf]()
--------------------
+[حساب گیت هاب]
+(https://github.com/amirkuselar)
+[آدرس ریپازیتوری PNU_3991_AR]
+(https://github.com/Amirkuselar/PNU_3991_AR)
+[آدرس رزومه]
+(https://amirkuselar.github.io/https-amirkuselar.github.io/)
+[انگیزه نامه]
+(https://amirkuselar.github.io/sop/)
+[مدرک جاوا اسکریپت]
+(https://www.sololearn.com/Certificate/1024-20618835/pdf)
+......................
 
 
 ## گروه ها
+1_[LMT-51امیرمحمد کوسه لر]
+(https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/51_%D8%A7%D9%85%D9%8A%D8%B1%D9%85%D8%AD%D9%85%D8%AF%20%D9%83%D9%88%D8%B3%D9%87%20%D9%84%D8%B1)
+2_G-R01
+1.[RAPM-57امیرمحمد کوسه لر]
+(https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/57_%D8%A7%D9%85%D9%8A%D8%B1%D9%85%D8%AD%D9%85%D8%AF%20%D9%83%D9%88%D8%B3%D9%87%20%D9%84%D8%B1)
+....................
 
-1. G-L02
+## پروژه های  دروس کارشناسی
+[1115157_02 نظريه زبانهاوماشين ها](https://github.com/Amirkuselar/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines)
 
-   1. [LMT-51 امیرمحمد کوسه لر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/51_%D8%A7%D9%85%D9%8A%D8%B1%D9%85%D8%AD%D9%85%D8%AF%20%D9%83%D9%88%D8%B3%D9%87%20%D9%84%D8%B1)
+[1322010_01 روش پژوهش و ارائه]
+(https://github.com/Amirkuselar/PNU_3991_AR/tree/main/ResearchAndPresentationMethods)
+.................
+
+## ارزیابی عمومی
+[بخش عمومی]
+(https://github.com/Amirkuselar/PNU_3991_AR/blob/main/_General/Ak_GeneralSection_Checllist_AR-3991.Pdf.pdf)
+[رزومه و انگیزه نامه]
+(https://github.com/Amirkuselar/PNU_3991_AR/blob/main/AK_CV_Checklist_AR_3991.Pdf.pdf)
+## ارزیابی دروس کارشناسی 
+[نظریه زبان و ماشین ]
+(https://github.com/Amirkuselar/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/AK_Theory-of-language-and-machines-Checklist-AR_3991.pdf.pdf)
+[روش پژوهش و ارائه]
+(https://github.com/Amirkuselar/PNU_3991_AR/blob/main/ResearchAndPresentationMethods/AK_ResearchAndPresentationMethods-AR_3991.pdf.pdf)
+..................
 
 
-2. G-R01
- 
-   1. [RAPM-57 امیرمحمد کوسه لر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/57_%D8%A7%D9%85%D9%8A%D8%B1%D9%85%D8%AD%D9%85%D8%AF%20%D9%83%D9%88%D8%B3%D9%87%20%D9%84%D8%B1)
-   
------------------
 
-
-
-## Winter Semester Courses 1399/2020
-
-## دروس کارشناسی
-
-[1115157_02 نظريه زبانهاوماشين ها](Theory-of-Languages-and-Machines)
-
-[1322010_01 روش پژوهش و ارائه](ResearchAndPresentationMethods)
-
------------------
 ## روز و ساعت ارائه دروس
 
 <table style="width:100%">
@@ -93,4 +101,4 @@
     <th><a </a></th>
     <th>پنج شنبه</th>
   </tr>
-</table>------
+</table>
