@@ -1,19 +1,18 @@
 # PNU_3991_AR
 ### امیرمحمد کوسه لر
 [حساب گیت هاب]
-
 (https://github.com/amirkuselar)
+
 [آدرس ریپازیتوری PNU_3991_AR]
-
 (https://github.com/Amirkuselar/PNU_3991_AR)
+
 [آدرس رزومه]
-
 (https://amirkuselar.github.io/https-amirkuselar.github.io/)
+
 [انگیزه نامه]
-
 (https://amirkuselar.github.io/sop/)
-[مدرک جاوا اسکریپت]
 
+[مدرک جاوا اسکریپت]
 (https://www.sololearn.com/Certificate/1024-20618835/pdf)
 ......................
 
@@ -27,6 +26,7 @@
 ....................
 
 ## پروژه های  دروس کارشناسی
+
 [1115157_02 نظريه زبانهاوماشين ها]
 (https://github.com/Amirkuselar/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines)
 
@@ -37,11 +37,14 @@
 ## ارزیابی عمومی
 [بخش عمومی]
 (https://github.com/Amirkuselar/PNU_3991_AR/blob/main/_General/Ak_GeneralSection_Checllist_AR-3991.Pdf.pdf)
+
 [رزومه و انگیزه نامه]
 (https://github.com/Amirkuselar/PNU_3991_AR/blob/main/AK_CV_Checklist_AR_3991.Pdf.pdf)
+
 ## ارزیابی دروس کارشناسی 
 [نظریه زبان و ماشین ]
 (https://github.com/Amirkuselar/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/AK_Theory-of-language-and-machines-Checklist-AR_3991.pdf.pdf)
+
 [روش پژوهش و ارائه]
 (https://github.com/Amirkuselar/PNU_3991_AR/blob/main/ResearchAndPresentationMethods/AK_ResearchAndPresentationMethods-AR_3991.pdf.pdf)
 ..................
