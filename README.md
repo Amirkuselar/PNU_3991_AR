@@ -14,6 +14,7 @@
 
 [مدرک جاوا اسکریپت]
 (https://www.sololearn.com/Certificate/1024-20618835/pdf)
+
 ......................
 
 
@@ -23,6 +24,7 @@
 2_G-R01
 1.[RAPM-57امیرمحمد کوسه لر]
 (https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/57_%D8%A7%D9%85%D9%8A%D8%B1%D9%85%D8%AD%D9%85%D8%AF%20%D9%83%D9%88%D8%B3%D9%87%20%D9%84%D8%B1)
+
 ....................
 
 ## پروژه های  دروس کارشناسی
@@ -32,6 +34,7 @@
 
 [1322010_01 روش پژوهش و ارائه]
 (https://github.com/Amirkuselar/PNU_3991_AR/tree/main/ResearchAndPresentationMethods)
+
 .................
 
 ## ارزیابی عمومی
@@ -47,6 +50,7 @@
 
 [روش پژوهش و ارائه]
 (https://github.com/Amirkuselar/PNU_3991_AR/blob/main/ResearchAndPresentationMethods/AK_ResearchAndPresentationMethods-AR_3991.pdf.pdf)
+
 ..................
 
 
