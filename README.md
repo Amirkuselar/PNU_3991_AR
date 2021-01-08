@@ -11,8 +11,9 @@
 
 [انگیزه نامه]
 (https://amirkuselar.github.io/sop/)
+(https://github.com/Amirkuselar/sop)
 
-[مدرک جاوا اسکریپت]
+مدرک جاوا اسکریپت]
 (https://www.sololearn.com/Certificate/1024-20618835/pdf)
 
 ......................
