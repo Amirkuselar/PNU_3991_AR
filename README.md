@@ -22,7 +22,8 @@
 ....................
 
 ## پروژه های  دروس کارشناسی
-[1115157_02 نظريه زبانهاوماشين ها](https://github.com/Amirkuselar/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines)
+[1115157_02 نظريه زبانهاوماشين ها]
+(https://github.com/Amirkuselar/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines)
 
 [1322010_01 روش پژوهش و ارائه]
 (https://github.com/Amirkuselar/PNU_3991_AR/tree/main/ResearchAndPresentationMethods)
