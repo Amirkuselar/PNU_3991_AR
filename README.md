@@ -50,7 +50,7 @@
 (https://github.com/Amirkuselar/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/AK_Theory-of-language-and-machines-Checklist-AR_3991.pdf.pdf)
 
 [روش پژوهش و ارائه]
-(https://github.com/Amirkuselar/PNU_3991_AR/blob/main/ResearchAndPresentationMethods/AK_ResearchAndPresentationMethods-AR_3991.pdf.pdf)
+(https://github.com/Amirkuselar/PNU_3991_AR/blob/main/ResearchAndPresentationMethods/AK_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
 
 ..................
 
